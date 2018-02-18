@@ -1,0 +1,588 @@
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat Feb 17 16:16:11 +0000 2018
+Tweet content: Looking forward to speaking on blockchain @2pm on the main stage! Looking forward to seeing everyone there.… https://t.co/dceRnaTJqF
+------------------------
+Created on: Fri Feb 02 06:29:26 +0000 2018
+Tweet content: @lighteningdrake The good 'ol RTFM :-].
+------------------------
+Created on: Fri Feb 02 06:27:36 +0000 2018
+Tweet content: It's great to represent @BCBSNC as well at all of these events :-]. https://t.co/wMj67O9lkr
+------------------------
+Created on: Fri Feb 02 06:26:40 +0000 2018
+Tweet content: That's me \ :-] /!! https://t.co/G6x9nKDHbi
+------------------------
+Created on: Tue Jan 23 13:35:28 +0000 2018
+Tweet content: Yeeey I’ll be speaking there :-]! #OpenSource101 #OpenSource https://t.co/Wjuvb08DgB
+------------------------
+Created on: Sun Jan 21 02:58:32 +0000 2018
+Tweet content: RT @UNC: Name something prettier than Chapel Hill covered in snow. We'll wait. 😍 https://t.co/T6bYmwBEab
+------------------------
+Created on: Fri Jan 19 22:32:37 +0000 2018
+Tweet content: Check out this Meetup: RIoT 2018 Kickoff - Blockchain Delivers Security and Efficiency to IoT… https://t.co/Yz4fpQ9JmZ
+------------------------
+Created on: Fri Jan 19 05:24:37 +0000 2018
+Tweet content: @JenWike @JenWike that sounds great! I would love to contribute and will definitely reach back out to you about tha… https://t.co/mddJBlwkh8
+------------------------
+Created on: Thu Jan 18 16:50:55 +0000 2018
+Tweet content: Self-healing skin for robots! Seriously!? https://t.co/joXs1xYmAh
+------------------------
+Created on: Thu Jan 18 06:40:51 +0000 2018
+Tweet content: I am thrilled to be speaking at Open Source 101 on February 17th! Check out the event below and make sure to regist… https://t.co/ixvhV3fVFE
+------------------------
+Created on: Wed Jan 10 01:32:25 +0000 2018
+Tweet content: Teaching SQL injection today... couldn't resist :).
+
+https://t.co/vRyMKVZM7K
+------------------------
+Created on: Tue Jan 09 02:44:16 +0000 2018
+Tweet content: Read it, peeps...
+
+https://t.co/jzYGgCqa8h
+------------------------
+Created on: Tue Jan 02 07:32:48 +0000 2018
+Tweet content: #LifeatBlueCrossNC https://t.co/n2Po11awT9
+------------------------
+Created on: Mon Jan 01 01:02:09 +0000 2018
+Tweet content: RT @UNC: #UNC.edu top stories of 2017 | Carolina alumna Zena Cardman has ventured to some of Earth’s most unique and remote places. Now she…
+------------------------
+Created on: Fri Dec 01 13:55:06 +0000 2017
+Tweet content: Looking forward to checking this out! AWS Cloud9: https://t.co/cyqmy6olKC via @awscloud
+------------------------
+Created on: Fri Nov 24 03:16:20 +0000 2017
+Tweet content: @AR22recruiter Mashed potatoes 😊😊😊
+------------------------
+Created on: Thu Nov 16 07:09:10 +0000 2017
+Tweet content: This guy gives hilarious advice on how to deal with e-mail spammers! Watch for seriously good laugh :-).
+
+https://t.co/dFWBnoqG9H
+------------------------
+Created on: Tue Nov 14 03:03:16 +0000 2017
+Tweet content: @GinnyGhezzo Nice 🤓
+------------------------
+Created on: Tue Nov 14 01:28:03 +0000 2017
+Tweet content: @BrianLangAuthor @GinnyGhezzo You know it!!
+------------------------
+Created on: Tue Nov 14 01:19:39 +0000 2017
+Tweet content: RT @GinnyGhezzo: I had a surprise #blockchain question when presenting at Duke. Thanks to @_angrbrd I had the answer in my backpocket!! #wo…
+------------------------
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat Feb 17 16:16:11 +0000 2018
+Tweet content: Looking forward to speaking on blockchain @2pm on the main stage! Looking forward to seeing everyone there.… https://t.co/dceRnaTJqF
+------------------------
+Created on: Fri Feb 02 06:29:26 +0000 2018
+Tweet content: @lighteningdrake The good 'ol RTFM :-].
+------------------------
+Created on: Fri Feb 02 06:27:36 +0000 2018
+Tweet content: It's great to represent @BCBSNC as well at all of these events :-]. https://t.co/wMj67O9lkr
+------------------------
+Created on: Fri Feb 02 06:26:40 +0000 2018
+Tweet content: That's me \ :-] /!! https://t.co/G6x9nKDHbi
+------------------------
+Created on: Tue Jan 23 13:35:28 +0000 2018
+Tweet content: Yeeey I’ll be speaking there :-]! #OpenSource101 #OpenSource https://t.co/Wjuvb08DgB
+------------------------
+Created on: Sun Jan 21 02:58:32 +0000 2018
+Tweet content: RT @UNC: Name something prettier than Chapel Hill covered in snow. We'll wait. 😍 https://t.co/T6bYmwBEab
+------------------------
+Created on: Fri Jan 19 22:32:37 +0000 2018
+Tweet content: Check out this Meetup: RIoT 2018 Kickoff - Blockchain Delivers Security and Efficiency to IoT… https://t.co/Yz4fpQ9JmZ
+------------------------
+Created on: Fri Jan 19 05:24:37 +0000 2018
+Tweet content: @JenWike @JenWike that sounds great! I would love to contribute and will definitely reach back out to you about tha… https://t.co/mddJBlwkh8
+------------------------
+Created on: Thu Jan 18 16:50:55 +0000 2018
+Tweet content: Self-healing skin for robots! Seriously!? https://t.co/joXs1xYmAh
+------------------------
+Created on: Thu Jan 18 06:40:51 +0000 2018
+Tweet content: I am thrilled to be speaking at Open Source 101 on February 17th! Check out the event below and make sure to regist… https://t.co/ixvhV3fVFE
+------------------------
+Created on: Wed Jan 10 01:32:25 +0000 2018
+Tweet content: Teaching SQL injection today... couldn't resist :).
+
+https://t.co/vRyMKVZM7K
+------------------------
+Created on: Tue Jan 09 02:44:16 +0000 2018
+Tweet content: Read it, peeps...
+
+https://t.co/jzYGgCqa8h
+------------------------
+Created on: Tue Jan 02 07:32:48 +0000 2018
+Tweet content: #LifeatBlueCrossNC https://t.co/n2Po11awT9
+------------------------
+Created on: Mon Jan 01 01:02:09 +0000 2018
+Tweet content: RT @UNC: #UNC.edu top stories of 2017 | Carolina alumna Zena Cardman has ventured to some of Earth’s most unique and remote places. Now she…
+------------------------
+Created on: Fri Dec 01 13:55:06 +0000 2017
+Tweet content: Looking forward to checking this out! AWS Cloud9: https://t.co/cyqmy6olKC via @awscloud
+------------------------
+Created on: Fri Nov 24 03:16:20 +0000 2017
+Tweet content: @AR22recruiter Mashed potatoes 😊😊😊
+------------------------
+Created on: Thu Nov 16 07:09:10 +0000 2017
+Tweet content: This guy gives hilarious advice on how to deal with e-mail spammers! Watch for seriously good laugh :-).
+
+https://t.co/dFWBnoqG9H
+------------------------
+Created on: Tue Nov 14 03:03:16 +0000 2017
+Tweet content: @GinnyGhezzo Nice 🤓
+------------------------
+Created on: Tue Nov 14 01:28:03 +0000 2017
+Tweet content: @BrianLangAuthor @GinnyGhezzo You know it!!
+------------------------
+Created on: Tue Nov 14 01:19:39 +0000 2017
+Tweet content: RT @GinnyGhezzo: I had a surprise #blockchain question when presenting at Duke. Thanks to @_angrbrd I had the answer in my backpocket!! #wo…
+------------------------
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js spotify-this-song lonely
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Lonely
+Artist: Yung Bans
+Album: Lonely
+Preview Here: https://p.scdn.co/mp3-preview/d6670c41e5ec0e1e10120c74e97478658bb7eda5?cid=df4b89e1639a4f98b19f1fee494f70d2
+
+User Command: node liri.js spotify-this-song lion
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Little Lion Man
+Artist: Mumford & Sons
+Album: Sigh No More
+Preview Here: null
+
+User Command: node liri.js spotify-this-song nobody
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Nobody Else But You
+Artist: Trey Songz
+Album: Tremaine The Album
+Preview Here: https://p.scdn.co/mp3-preview/089d35c5f1e8b17eaa287b6bc722173b1134efc5?cid=df4b89e1639a4f98b19f1fee494f70d2
+
+User Command: node liri.js spotify-this-song lion
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Little Lion Man
+Artist: Mumford & Sons
+Album: Sigh No More
+Preview Here: null
+
+User Command: node liri.js spotify-this-song appleapi
+
+ERROR: No song info retrieved, please check the spelling of the song name!User Command: node liri.js spotify-this-song applepie
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I'm So
+Artist: Andrew Applepie
+Album: Andrew Applepie
+Preview Here: https://p.scdn.co/mp3-preview/7056fb2957dbc32323294213663a2d1b9f8a62f5?cid=df4b89e1639a4f98b19f1fee494f70d2
+
+User Command: node liri.js spotify-this-song applepie
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I'm So
+Artist: Andrew Applepie
+Album: Andrew Applepie
+Preview Here: https://p.scdn.co/mp3-preview/7056fb2957dbc32323294213663a2d1b9f8a62f5?cid=df4b89e1639a4f98b19f1fee494f70d2
+
+User Command: node liri.js movie-this undefined
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this undefined
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this undefined
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 06 Nov 2014
+IMBD Rating: N/A
+Country Produced: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 06 Nov 2014
+IMBD Rating: N/A
+Country Produced: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 06 Nov 2014
+IMBD Rating: N/A
+Country Produced: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this undefined
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 06 Nov 2014
+IMBD Rating: N/A
+Country Produced: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 06 Nov 2014
+IMBD Rating: N/A
+Country Produced: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 06 Nov 2014
+IMBD Rating: N/A
+Country Produced: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: undefined
+Year Released: undefined
+IMBD Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: undefined
+Year Released: undefined
+IMBD Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: undefined
+Year Released: undefined
+IMBD Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: undefined
+Year Released: undefined
+IMBD Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Superman
+Year Released: 15 Dec 1978
+IMBD Rating: 7.3
+Country Produced: USA, UK, Panama, Switzerland, Canada
+Language: English
+Plot: An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+Actors: Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Undefined
+Year Released: 06 Nov 2014
+IMBD Rating: N/A
+Country Produced: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Superman
+Year Released: 15 Dec 1978
+IMBD Rating: 7.3
+Country Produced: USA, UK, Panama, Switzerland, Canada
+Language: English
+Plot: An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+Actors: Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat Feb 17 16:16:11 +0000 2018
+Tweet content: Looking forward to speaking on blockchain @2pm on the main stage! Looking forward to seeing everyone there.… https://t.co/dceRnaTJqF
+------------------------
+Created on: Fri Feb 02 06:29:26 +0000 2018
+Tweet content: @lighteningdrake The good 'ol RTFM :-].
+------------------------
+Created on: Fri Feb 02 06:27:36 +0000 2018
+Tweet content: It's great to represent @BCBSNC as well at all of these events :-]. https://t.co/wMj67O9lkr
+------------------------
+Created on: Fri Feb 02 06:26:40 +0000 2018
+Tweet content: That's me \ :-] /!! https://t.co/G6x9nKDHbi
+------------------------
+Created on: Tue Jan 23 13:35:28 +0000 2018
+Tweet content: Yeeey I’ll be speaking there :-]! #OpenSource101 #OpenSource https://t.co/Wjuvb08DgB
+------------------------
+Created on: Sun Jan 21 02:58:32 +0000 2018
+Tweet content: RT @UNC: Name something prettier than Chapel Hill covered in snow. We'll wait. 😍 https://t.co/T6bYmwBEab
+------------------------
+Created on: Fri Jan 19 22:32:37 +0000 2018
+Tweet content: Check out this Meetup: RIoT 2018 Kickoff - Blockchain Delivers Security and Efficiency to IoT… https://t.co/Yz4fpQ9JmZ
+------------------------
+Created on: Fri Jan 19 05:24:37 +0000 2018
+Tweet content: @JenWike @JenWike that sounds great! I would love to contribute and will definitely reach back out to you about tha… https://t.co/mddJBlwkh8
+------------------------
+Created on: Thu Jan 18 16:50:55 +0000 2018
+Tweet content: Self-healing skin for robots! Seriously!? https://t.co/joXs1xYmAh
+------------------------
+Created on: Thu Jan 18 06:40:51 +0000 2018
+Tweet content: I am thrilled to be speaking at Open Source 101 on February 17th! Check out the event below and make sure to regist… https://t.co/ixvhV3fVFE
+------------------------
+Created on: Wed Jan 10 01:32:25 +0000 2018
+Tweet content: Teaching SQL injection today... couldn't resist :).
+
+https://t.co/vRyMKVZM7K
+------------------------
+Created on: Tue Jan 09 02:44:16 +0000 2018
+Tweet content: Read it, peeps...
+
+https://t.co/jzYGgCqa8h
+------------------------
+Created on: Tue Jan 02 07:32:48 +0000 2018
+Tweet content: #LifeatBlueCrossNC https://t.co/n2Po11awT9
+------------------------
+Created on: Mon Jan 01 01:02:09 +0000 2018
+Tweet content: RT @UNC: #UNC.edu top stories of 2017 | Carolina alumna Zena Cardman has ventured to some of Earth’s most unique and remote places. Now she…
+------------------------
+Created on: Fri Dec 01 13:55:06 +0000 2017
+Tweet content: Looking forward to checking this out! AWS Cloud9: https://t.co/cyqmy6olKC via @awscloud
+------------------------
+Created on: Fri Nov 24 03:16:20 +0000 2017
+Tweet content: @AR22recruiter Mashed potatoes 😊😊😊
+------------------------
+Created on: Thu Nov 16 07:09:10 +0000 2017
+Tweet content: This guy gives hilarious advice on how to deal with e-mail spammers! Watch for seriously good laugh :-).
+
+https://t.co/dFWBnoqG9H
+------------------------
+Created on: Tue Nov 14 03:03:16 +0000 2017
+Tweet content: @GinnyGhezzo Nice 🤓
+------------------------
+Created on: Tue Nov 14 01:28:03 +0000 2017
+Tweet content: @BrianLangAuthor @GinnyGhezzo You know it!!
+------------------------
+Created on: Tue Nov 14 01:19:39 +0000 2017
+Tweet content: RT @GinnyGhezzo: I had a surprise #blockchain question when presenting at Duke. Thanks to @_angrbrd I had the answer in my backpocket!! #wo…
+------------------------
+
+User Command: node liri.js spotify-this-song happynewyear
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Happynewyear
+Artist: Ah, Venice
+Album: Christmas Miracle
+Preview Here: https://p.scdn.co/mp3-preview/7d471e1cd4fcb94186d052905ba89e338f02dd51?cid=df4b89e1639a4f98b19f1fee494f70d2
+
+User Command: node liri.js spotify-this-song happynewyear
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Ah, Venice
+Song Name: Happynewyear
+Preview Link: https://p.scdn.co/mp3-preview/7d471e1cd4fcb94186d052905ba89e338f02dd51?cid=df4b89e1639a4f98b19f1fee494f70d2
+
+User Command: node liri.js spotify-this-song happynewyear
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Ah, Venice
+Song Name: Happynewyear
+Preview Link: https://p.scdn.co/mp3-preview/7d471e1cd4fcb94186d052905ba89e338f02dd51?cid=df4b89e1639a4f98b19f1fee494f70d2
+Album: Christmas Miracle
+
+User Command: node liri.js spotify-this-song happynewyear
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Artist: Ah, Venice
+Song Name: Happynewyear
+Preview Link: https://p.scdn.co/mp3-preview/7d471e1cd4fcb94186d052905ba89e338f02dd51?cid=df4b89e1639a4f98b19f1fee494f70d2
+Album: Christmas Miracle
+
